@@ -1,0 +1,9 @@
+<?php
+class DatabaseConfig {
+    public static $host = "sql206.infinityfree.com";
+    public static $user = "if0_41719994";
+    public static $pass = "CuR8XaVTIt";
+    public static $dbname = "if0_41719994_alumni";
+}
+?>
+
